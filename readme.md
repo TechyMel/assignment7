@@ -266,7 +266,7 @@ Then submit the GitHub repository link as instructed.
 # Module 7
 
 ## My Github Repository
-![Githup Repo](/qr_codes/QR_My_Website.png "MY QR Code link")
+![Githup Repo](/qr_codes/QRCode_20260630223350.png "MY QR Code link")
 
 ## My DockerHub Image
 ![Docker QR Image](/qr_codes/QRCode_20260630221726.png "My QR Code Link")
